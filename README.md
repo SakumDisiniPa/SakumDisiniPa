@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sakum Disini Pa
+# 👋 Hello, I'm Sakum Tala
 
 ### 💻 *Full-Stack Web Developer | Tech Enthusiast | Content Creator*
 
@@ -22,13 +22,16 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🛠️ Systems & Server
-- OS Installation & Configuration (Linux/Ubuntu, Windows, macOS)
-- Server: SSH, Apache/Nginx, VPS setup
-- Hardware: PC building, troubleshooting, upgrades
+### 🛠️ Systems, Server & Hardware
+- OS Installation & Configuration (Windows, macOS, Linux Distros)
+- VPS Setup & Server Management (SSH, Apache, Nginx)
+- PC Building & Upgrading (custom builds, performance tuning)
+- Android Customization (custom ROMs, flashing, device repair)
 
 ---
 
@@ -70,7 +73,8 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 ## ⚡ Fun Facts
 
 - 🔧 I enjoy tweaking OS and experimenting with different setups
-- 💡 I'm a curious builder who loves turning ideas into working prototypes
+- 📱 I'm experienced in flashing and customizing Android phones
+- 💡 I love turning ideas into real-world tech solutions
 - 🌐 I believe tech should be accessible, creative, and empowering
 
 ---
