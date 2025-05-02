@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakumDisiniPa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=SakumDisiniPa&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
