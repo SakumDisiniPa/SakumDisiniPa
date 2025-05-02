@@ -41,9 +41,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
   <img src="https://github-readme-stats.vercel.app/api?username=SakumDisiniPa&show_icons=true&theme=tokyonight" alt="Sakum GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SakumDisiniPa&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=SakumDisiniPa&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakumDisiniPa&layout=compact&theme=tokyonight" alt="Top Languages" />
