@@ -74,11 +74,14 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 - 🌐 I believe tech should be accessible, creative, and empowering
 
 ---
- ! [JavaScript Algorithms] (https://github.com/SakumDisiniPa/my-certification/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures.pdf)
+ 
 ---
 
 ### Certification
 
+ ! [JavaScript Algorithms] (https://github.com/SakumDisiniPa/my-certification/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures.pdf)
+ 
+---
 
 
 ⭐ *Made with passion by* [@SakumDisiniPa](https://github.com/SakumDisiniPa)
