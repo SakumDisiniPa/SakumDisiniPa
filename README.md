@@ -77,10 +77,26 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
  
 ---
 
-### Certification
+## 📜 Sertifikasi FreeCodeCamp
 
- ! [JavaScript Algorithms] (https://github.com/SakumDisiniPa/my-certification/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures.pdf)
- 
+<p align="center">
+  <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/back-end-development-and-apis.pdf">
+    <img src="https://github.com/SakumDisiniPa/my-certification/blob/main/image/back-end-development-and-apis_page_1.png" alt="Back End Dev Certificate" width="300" />
+  </a>
+  <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/front-end-development-libraries.pdf">
+    <img src="https://github.com/SakumDisiniPa/my-certification/blob/main/image/front-end-development-libraries_page_1.png" alt="Front End Dev Certificate" width="300" />
+  </a>
+  <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/responsive-web-design.pdf">
+    <img src="https://github.com/SakumDisiniPa/my-certification/blob/main/image/responsive-web-design_page_1.png" alt="Responsive Web Design" width="300" />
+  </a>
+  <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/scientific-computing-with-python-v7.pdf">
+    <img src="https://github.com/SakumDisiniPa/my-certification/blob/main/image/scientific-computing-with-python-v7_page_1.png" alt="Scientific Computing" width="300" />
+  </a>
+  <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/javascript-algorithms-and-data-structures.pdf">
+    <img src="https://github.com/SakumDisiniPa/my-certification/blob/main/image/JavaScript%20Algorithms%20and%20Data%20Structures_page_1.png" alt="JavaScript Algorithms" width="300" />
+  </a>
+</p>
+
 ---
 
 
