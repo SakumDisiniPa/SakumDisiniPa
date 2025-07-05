@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
  
 ---
 
-## 📜 Sertifikasi FreeCodeCamp
+## 📜 Certification FreeCodeCamp
 
 <p align="center">
   <a href="https://github.com/SakumDisiniPa/my-certification/blob/main/back-end-development-and-apis.pdf">
