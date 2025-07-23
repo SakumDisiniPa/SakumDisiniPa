@@ -37,13 +37,12 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakumDisiniPa&show_icons=true&theme=tokyonight" alt="Sakum GitHub Stats" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SakumDisiniPa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sakum GitHub Stats" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=SakumDisiniPa&theme=dark&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakumDisiniPa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakumDisiniPa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+## 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SakumDisiniPa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
 
 ---
 
