@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive web experi
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sakum-tala-6b304a348/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dimas-dwi-agustianto-6b304a348/)
 - 🐦 [Twitter / X](https://x.com/SakumT57692)
 - 📸 [Instagram](https://www.instagram.com/psakum)
 - 📺 [YouTube](https://youtube.com/@SAKUM_DISINI_PA)
