@@ -44,7 +44,7 @@
 
 | **Systems & Low Level** | **Environment & Server** |
 | :---: | :---: |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu_24_Pro-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu_24_Pro-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white) |
 
 </div>
 
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=SakumDisiniPa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
+  <img src="https://github-profile-trophy.sakum.my.id/?username=SakumDisiniPa&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
 </p>
 
 ---
